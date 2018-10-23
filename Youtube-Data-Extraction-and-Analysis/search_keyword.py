@@ -2,7 +2,7 @@ from apiclient.discovery import build
 import argparse
 import csv
 import unidecode
-
+import os
 # Set DEVELOPER_KEY to the API key value from the APIs & auth > Registered apps
 # tab of
 #   https://cloud.google.com/console
