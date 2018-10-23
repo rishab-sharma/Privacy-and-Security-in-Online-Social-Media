@@ -1,5 +1,6 @@
 import json
 import matplotlib.pyplot as plt
+import os
 
 with open('panamapapersq2.json','r') as f:
 
